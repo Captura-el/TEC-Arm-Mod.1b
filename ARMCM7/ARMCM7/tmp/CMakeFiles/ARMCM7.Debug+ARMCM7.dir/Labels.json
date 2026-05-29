@@ -1,0 +1,52 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/CMakeFiles/ARMCM7.Debug+ARMCM7"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/CMakeFiles/ARMCM7.Debug+ARMCM7.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/CMakeFiles/ARMCM7.Debug+ARMCM7-complete.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-build.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-configure.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-database.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-download.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-executes.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-install.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-patch.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-test.rule"
+		},
+		{
+			"file" : "C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7/tmp/ARMCM7.Debug+ARMCM7/src/ARMCM7.Debug+ARMCM7-stamp/ARMCM7.Debug+ARMCM7-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ARMCM7.Debug+ARMCM7"
+		],
+		"name" : "ARMCM7.Debug+ARMCM7"
+	}
+}
