@@ -1,6 +1,6 @@
-# ARMKeil_MDK Mod. 1 - KeilStudio
+# ARMKeil_MDK Mod. 1b - KeilStudio
 
-¡Bienvenido al repositorio del curso ARMKeil_MDK Mod. 1 - KeilStudio! 
+¡Bienvenido al repositorio del curso ARMKeil_MDK Mod. 1b - KeilStudio! 
 
 A continuación, encontrarás los pasos necesarios para descargar todo el material de apoyo.
 
@@ -23,4 +23,4 @@ Al descargar el archivo ZIP, dispondrás de todos los ejercicios organizados min
 * Consultar una **corrección de ejemplo** en caso de que te atasques en algún punto del curso.
 * Disponer de todo el material de respaldo si no consigues completar algún ejercicio a tiempo.
 
-¡Mucho éxito con el curso! 💻🔥
+¡Mucho éxito con el curso! 
