@@ -1,1 +1,0 @@
-cmd='C:/Users/marc/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.31.5/bin/cmake.exe;-G;Ninja;-S;<SOURCE_DIR>;-B;<BINARY_DIR>;-DSOLUTION_ROOT=C:/Users/marc/Desktop/CMSDK_CM7/ARMCM7;-DCMSIS_PACK_ROOT=C:/Users/marc/AppData/Local/Arm/Packs;-DCMSIS_COMPILER_ROOT=C:/Users/marc/.vscode/extensions/arm.cmsis-csolution-1.66.0-win32-x64/tools/cmsis-toolbox/etc'
